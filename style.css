@@ -1,0 +1,198 @@
+.topImage{
+  position: absolute;
+  top:0px;
+}
+
+.bottoomhalf{
+    width:100vw;
+    height: 120vh;
+    background-image: url('dianaM.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(83, 237, 245);
+}
+
+.bottomhalf{
+    width:100vw;
+    height:100vh;
+    background-color: rgb(83, 237, 245);
+}
+
+
+.iphone{
+  color: rgb(61, 119, 173);
+  font-family: 'Fjalla One', sans-serif;
+  margin: 0px;
+  text-shadow: 2px 2px rgb(0,0,0) ;
+  
+}
+
+h3{
+    color: rgb(61, 119, 173);
+    font-family: 'Josefin Sans', sans-serif
+}
+
+.BTS{
+  font-family: 'Baskervville', serif;
+}
+.diana{
+    color: rgb(61, 119, 173);
+}
+
+
+a{
+    display: inline;
+    text-decoration: none;
+    color: rgb(0,0,0);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 9px;
+  overflow: hidden;
+  background-color:rgb(83, 237, 245) ;
+  background-color: rgb(176, 248, 255)
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(197, 66, 207);
+  color: white;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+.active {
+  background-color: rgb(255, 176, 252);
+   font-family: 'Russo One', sans-serif;
+  
+}
+
+.contact1{
+  background-color: rgb(255, 176, 252);
+  font-family: 'Russo One', sans-serif;
+
+}
+.here{
+  background-color: rgb(255, 176, 252);
+  font-family: 'Russo One', sans-serif;
+  
+}
+.Facts{
+  font-family: 'Patua One', cursive;
+  color: rgb(61, 119, 173);
+  margin: 0px;
+  text-shadow: 2px 2px rgb(0,0,0) ;
+}
+
+.table{
+  color: rgb(61, 119, 173);
+  font-family: 'Patua One', cursive;
+  text-shadow: 2px 2px rgb(0,0,0) ;
+  
+}
+
+.scroll{
+  color: rgb(255, 0, 0);
+   font-family: 'Seymour One', sans-serif;
+   text-align: right;
+  
+}
+
+.BTS{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.BTS1{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.BTS2{
+   font-family: 'Libre Franklin', sans-serif;
+}
+
+.BTS3{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.BTS4{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.BTS5{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.contact2{
+  color: rgb(61, 119, 173);
+  font-family: 'Seymour One', sans-serif;
+  margin: 0px;
+  text-shadow: 2px 2px rgb(0,0,0) ;
+  
+}
+
+.name{
+  font-family: 'Anton', sans-serif;
+}
+
+.Email{
+  font-family: 'Anton', sans-serif;
+}
+
+.message{
+  font-family: 'Anton', sans-serif;
+}
+
+.feel{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Members{
+  font-family: 'Patua One',sans-serif ;
+}
+
+.age{
+  font-family: 'Patua One',sans-serif ;
+}
+
+.pic{
+  font-family: 'Patua One',sans-serif ;
+}
+
+.pos{
+  font-family: 'Patua One',sans-serif ;
+}
+
+.mem{
+  font-family: 'Acme', sans-serif;
+}
+
+.age2{
+  font-family: 'Acme', sans-serif;
+}
+
+.pic2{
+  font-family: 'Acme', sans-serif;
+}
+
+.pos2{
+  font-family: 'Acme', sans-serif;
+}
