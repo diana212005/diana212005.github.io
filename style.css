@@ -48,11 +48,15 @@ a{
 
 ul {
   list-style-type: none;
-  margin: 0px;
-  padding: 9px;
-  overflow: hidden;
-  background-color:rgb(83, 237, 245) ;
-  background-color: rgb(176, 248, 255)
+  margin:0px;
+  padding:9px;
+  overflow:hidden;
+  background-color:rgb(83, 237, 245);
+  background-color: rgb(176, 248, 255);
+   position: fixed;
+  bottom: 0;
+  width: 100%;
+  
 }
 
 li {
@@ -118,27 +122,27 @@ li:last-child {
 }
 
 .BTS{
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Francois One', sans-serif;
 }
 
 .BTS1{
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Francois One', sans-serif;
 }
 
 .BTS2{
-   font-family: 'Libre Franklin', sans-serif;
+   font-family: 'Francois One', sans-serif;
 }
 
 .BTS3{
-  font-family: 'Libre Franklin', sans-serif;
+ font-family: 'Francois One', sans-serif;
 }
 
 .BTS4{
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Francois One', sans-serif;
 }
 
 .BTS5{
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Francois One', sans-serif;
 }
 
 .contact2{
@@ -189,10 +193,53 @@ li:last-child {
   font-family: 'Acme', sans-serif;
 }
 
-.pic2{
+.pos2{
   font-family: 'Acme', sans-serif;
 }
 
-.pos2{
+.mem1{
+  font-family: 'Acme', sans-serif;
+}
+
+.age3{
+  font-family: 'Acme', sans-serif;
+}
+
+.pos3{
+  font-family: 'Acme', sans-serif;
+}
+.mem2{
+  font-family: 'Acme', sans-serif;
+}
+
+.age4{
+  font-family: 'Acme', sans-serif;
+}
+
+.pos4{
+  font-family: 'Acme', sans-serif;
+}
+
+.mem3{
+font-family: 'Acme', sans-serif;
+}
+
+.age5{
+  font-family: 'Acme', sans-serif;
+}
+
+.pos5{
+  font-family: 'Acme', sans-serif;
+}
+
+.mem4{
+  font-family: 'Acme', sans-serif;
+}
+
+.age6{
+  font-family: 'Acme', sans-serif;
+}
+
+.pos6{
   font-family: 'Acme', sans-serif;
 }
