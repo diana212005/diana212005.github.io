@@ -49,14 +49,14 @@ a{
 ul {
   list-style-type: none;
   margin:0px;
-  padding:9px;
+  padding:8px;
   overflow:hidden;
   background-color:rgb(83, 237, 245);
   background-color: rgb(176, 248, 255);
    position: fixed;
-  bottom: 0;
+ bottom: 0;
   width: 100%;
-  
+   
 }
 
 li {
@@ -147,7 +147,7 @@ li:last-child {
 
 .contact2{
   color: rgb(61, 119, 173);
-  font-family: 'Seymour One', sans-serif;
+  font-family: 'Baloo Bhai', cursive;
   margin: 0px;
   text-shadow: 2px 2px rgb(0,0,0) ;
   
