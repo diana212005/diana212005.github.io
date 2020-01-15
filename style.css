@@ -24,6 +24,7 @@
   font-family: 'Fjalla One', sans-serif;
   margin: 0px;
   text-shadow: 2px 2px rgb(0,0,0) ;
+  text-align: center;
   
 }
 
@@ -37,10 +38,13 @@ h3{
 }
 .diana{
     color: rgb(61, 119, 173);
+   text-align: center;
+    margin:  3%;
 }
 
 
 a{
+    text-align: center;
     display: inline;
     text-decoration: none;
     color: rgb(0,0,0);
@@ -104,6 +108,7 @@ li:last-child {
   font-family: 'Patua One', cursive;
   color: rgb(61, 119, 173);
   margin: 0px;
+   text-align: center;
   text-shadow: 2px 2px rgb(0,0,0) ;
 }
 
@@ -114,15 +119,11 @@ li:last-child {
   
 }
 
-.scroll{
-  color: rgb(255, 0, 0);
-   font-family: 'Seymour One', sans-serif;
-   text-align: right;
-  
-}
+
 
 .BTS{
   font-family: 'Francois One', sans-serif;
+   text-align: center;
 }
 
 .BTS1{
@@ -146,6 +147,7 @@ li:last-child {
 }
 
 .contact2{
+  text-align: center;
   color: rgb(61, 119, 173);
   font-family: 'Baloo Bhai', cursive;
   margin: 0px;
@@ -154,18 +156,29 @@ li:last-child {
 }
 
 .name{
+  line-height: 2;
+   margin-left:40%;
+  text-align: center;
   font-family: 'Anton', sans-serif;
 }
 
 .Email{
+  line-height: 2;
+  text-align: center;
+  margin-left:40%;
   font-family: 'Anton', sans-serif;
 }
 
 .message{
+   line-height: 4;
+    margin-left:36%;
+   text-align: center;
   font-family: 'Anton', sans-serif;
 }
 
 .feel{
+    margin-left:40%;
+   text-align: right;
   font-family: 'Merriweather Sans', sans-serif;
 }
 
@@ -242,4 +255,9 @@ font-family: 'Acme', sans-serif;
 
 .pos6{
   font-family: 'Acme', sans-serif;
+}
+
+.send{
+  margin-left:60%;
+   text-align: right;
 }
